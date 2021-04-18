@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("body").style.backgroundColor="#ff0";for(let e=0;e<=100;e++)document.querySelector("#root").innerHTML+=`<div id="item">${e}</div>`})();
